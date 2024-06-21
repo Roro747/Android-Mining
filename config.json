@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "luckpool",
-        "url": "stratum+tcp://eu.luckpool.net:3956",
+		"name": "vipor",
+        "url": "stratum+tcp://fr.vipor.net:5045",
 		"timeout": 150
 	},
 	{
 		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://eu.luckpool.net:3956",
+        "url": "stratum+tcp://fr.vipor.net:5045",
 		"timeout": 60,
 		"time-limit": 600
 	}],
 	
-	"user": "RFGhXZ7Zn2xLSV18Pozp4pyz5Rqcx9gCdK.s8_29",
+	"user": "RFGhXZ7Zn2xLSV18Pozp4pyz5Rqcx9gCdK.s8_2",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
